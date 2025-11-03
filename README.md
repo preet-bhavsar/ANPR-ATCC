@@ -78,7 +78,7 @@ This solution leverages the best of modern computer vision and OCR technologies,
 ### Installation Steps
 
 ```bash
-git clone https://github.com/nehakumari2003/ANPR-ATCC.git
+https://github.com/preet-bhavsar/ANPR-ATCC
 cd ANPR-ATCC/ANPR-ATCC-Infosys
 
 
